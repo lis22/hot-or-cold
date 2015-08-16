@@ -12,7 +12,7 @@ $(document).ready(function(){
 
   	/*--- Hide information modal box ---*/
   	$("a.close").click(function(){
-  		$(".overlay").fadeOut(1000);
+  		$(".overlay").fadeOut(1000); 
   	});
 
 		newGame();
